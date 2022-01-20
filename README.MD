@@ -6,6 +6,8 @@ Programação de robô para automação web. Construído utilizando [Puppeteer J
 
 Construir um bot que seja capaz de acessar sites, bem como executar ações específicas dentro desses sites, com o intuito de entender as premissas envolvidas no conceito de automação web.
 
+Para concluir esse objetivo, foi construído um robo que faça conversões de moeda.
+
 ## Aplicações
 
 - Web Scrapping

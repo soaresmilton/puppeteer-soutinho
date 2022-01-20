@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-js-soutinho",
+  "version": "0.0.1",
+  "description": "Programação de robô para automação web. Construído utilizando Puppeteer JS e Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaresmilton/puppeteer-soutinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soaresmilton/puppeteer-soutinho/issues"
+  },
+  "homepage": "https://github.com/soaresmilton/puppeteer-soutinho#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
