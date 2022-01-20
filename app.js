@@ -1,0 +1,1 @@
+https://www.google.com/search?q=${dddd}+para+${dddd}&oq=${dddd}+para+${dddd}&aqs=chrome.0.69i59j69i57j0i512j0i131i433i512j0i512l6.1525j1j1&sourceid=chrome&ie=UTF-8
